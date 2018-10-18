@@ -24,7 +24,11 @@
         "LICENSE",
         "SHA256SUMS",
         "main.js",
-        "node_modules"
+        "node_modules",
+        "lib/nanoleaf-adapter.js",
+        "lib/nanoleaf-db.js",
+        "lib/nanoleaf-device.js",
+        "lib/nanoleaf-scanner.js"
     ],
     "moziot": {
         "api": {
@@ -37,6 +41,7 @@
     },
     "dependencies": {
         "bonjour": "^3.5.0",
+        "color-convert": "^1.9.3",
         "node-ssdp": "^4.0.0",
         "request": "^2.88.0",
         "rxjs": "^6.3.3"
