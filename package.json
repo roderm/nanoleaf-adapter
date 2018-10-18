@@ -1,0 +1,38 @@
+{
+    "name": "nanoleaf-adapter",
+    "display_name": "dev-Nanoleaf",
+    "version": "0.0.1",
+    "main": "main.js",
+    "description": "Adapter for Nanoleaf devices",
+    "keywords": [
+        "mozilla",
+        "iot",
+        "adapter",
+        "nanoleaf",
+        "aurora"
+    ],
+    "homepage": "https://github.com/roderm/nanoleaf-adapter",
+    "author": "roderm",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/roderm/nanoleaf-adapter.git"
+    },
+    "bugs": {
+        "url": "https://github.com/roderm/nanoleaf-adapter/issues"
+    },
+    "files": [
+        "LICENSE",
+        "SHA256SUMS",
+        "main.js",
+        "node_modules"
+    ],
+    "moziot": {
+        "api": {
+            "min": 1,
+            "max": 2
+        },
+        "plugin": true,
+        "enabled": true,
+        "exec": "{nodeLoader} {path}"
+    }
+}
