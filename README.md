@@ -9,5 +9,4 @@
 - Your leaf should be connected
 
 ## TODO
-- Setting color making problem (=> receiving "null" form UI)
 - Add Actions from Nanoleaf
