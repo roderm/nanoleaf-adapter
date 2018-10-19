@@ -9,4 +9,4 @@
 - Your leaf should be connected
 
 ## TODO
-- Add Actions from Nanoleaf
+- Load effects as Enum-field
