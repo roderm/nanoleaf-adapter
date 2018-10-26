@@ -1,7 +1,7 @@
 {
     "name": "nanoleaf-adapter",
     "display_name": "Nanoleaf",
-    "version": "0.1.0",
+    "version": "0.1.1",
     "main": "main.js",
     "description": "Adapter for Nanoleaf devices",
     "keywords": [
@@ -32,7 +32,7 @@
     ],
     "moziot": {
         "api": {
-            "min": 1,
+            "min": 2,
             "max": 2
         },
         "plugin": true,
