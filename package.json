@@ -1,7 +1,7 @@
 {
     "name": "nanoleaf-adapter",
     "display_name": "Nanoleaf",
-    "version": "0.0.3-2",
+    "version": "0.1.0",
     "main": "main.js",
     "description": "Adapter for Nanoleaf devices",
     "keywords": [
@@ -12,7 +12,7 @@
         "aurora"
     ],
     "homepage": "https://github.com/roderm/nanoleaf-adapter",
-    "author": "roderm",
+    "author": "Roman Odermatt",
     "repository": {
         "type": "git",
         "url": "https://github.com/roderm/nanoleaf-adapter.git"
