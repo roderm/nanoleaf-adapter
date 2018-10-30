@@ -36,7 +36,6 @@
             "max": 2
         },
         "plugin": true,
-        "enabled": true,
         "exec": "{nodeLoader} {path}"
     },
     "dependencies": {
