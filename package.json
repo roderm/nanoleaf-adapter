@@ -13,6 +13,7 @@
     ],
     "homepage": "https://github.com/roderm/nanoleaf-adapter",
     "author": "Roman Odermatt",
+    "license": "MPL-2.0",
     "repository": {
         "type": "git",
         "url": "https://github.com/roderm/nanoleaf-adapter.git"
