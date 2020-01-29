@@ -1,9 +1,11 @@
-# Telnet-Adapter for [Mozilla-Gateway](https://github.com/mozilla-iot/gateway)
+# nanoleaf-adapter
+
+Nanoleaf light adapter for Mozilla WebThings Gateway
 
 ## Install
-- set Gateway Download-uri to [https://raw.githubusercontent.com/roderm/addon-list/master/list.json](https://raw.githubusercontent.com/roderm/addon-list/master/list.json) (or use current stable-version)
-- Add plugin
-- Goto "things"
-- Press Power-Button on Nanoleaf for 5-7 seconds until 3 dots begin blinking
-- click on "+" on Gateway-Things page
+
+- Install add-on in the UI via _Settings -> Add-ons_.
+- Go to Things screen
+- Press Power Button on Nanoleaf for 5-7 seconds until 3 dots begin blinking
+- Click "+" button on Things screen
 - Your nanoleaf should be connected

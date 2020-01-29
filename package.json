@@ -23,8 +23,10 @@
     },
     "files": [
         "LICENSE",
+        "README.md",
         "SHA256SUMS",
         "main.js",
+        "manifest.json",
         "node_modules",
         "lib/nanoleaf-adapter.js",
         "lib/nanoleaf-db.js",

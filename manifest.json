@@ -1,0 +1,19 @@
+{
+  "author": "Roman Odermatt",
+  "description": "Adapter for Nanoleaf devices",
+  "gateway_specific_settings": {
+    "webthings": {
+      "exec": "{nodeLoader} {path}",
+      "primary_type": "adapter",
+      "strict_max_version": "*",
+      "strict_min_version": "0.10.0"
+    }
+  },
+  "homepage_url": "https://github.com/roderm/nanoleaf-adapter",
+  "id": "nanoleaf-adapter",
+  "license": "MPL-2.0",
+  "manifest_version": 1,
+  "name": "Nanoleaf",
+  "short_name": "Nanoleaf",
+  "version": "0.1.1"
+}
