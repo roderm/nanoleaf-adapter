@@ -1,7 +1,7 @@
 {
     "name": "nanoleaf-adapter",
     "display_name": "Nanoleaf",
-    "version": "0.1.1",
+    "version": "0.1.2",
     "main": "main.js",
     "description": "Adapter for Nanoleaf devices",
     "keywords": [
@@ -42,10 +42,9 @@
         "exec": "{nodeLoader} {path}"
     },
     "dependencies": {
-        "bonjour": "^3.5.0",
-        "color-convert": "^1.9.3",
+        "color-convert": "^2.0.1",
         "node-ssdp": "^4.0.0",
         "request": "^2.88.0",
-        "rxjs": "^6.3.3"
+        "rxjs": "^6.5.4"
     }
 }
