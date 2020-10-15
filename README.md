@@ -1,6 +1,6 @@
 # nanoleaf-adapter
 
-Nanoleaf light adapter for Mozilla WebThings Gateway
+Nanoleaf light adapter for WebThings Gateway
 
 ## Install
 
