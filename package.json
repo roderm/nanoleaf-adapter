@@ -33,14 +33,6 @@
         "lib/nanoleaf-device.js",
         "lib/nanoleaf-scanner.js"
     ],
-    "moziot": {
-        "api": {
-            "min": 2,
-            "max": 2
-        },
-        "plugin": true,
-        "exec": "{nodeLoader} {path}"
-    },
     "dependencies": {
         "color-convert": "^2.0.1",
         "node-ssdp": "^4.0.0",
