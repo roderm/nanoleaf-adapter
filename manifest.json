@@ -15,5 +15,27 @@
   "manifest_version": 1,
   "name": "Nanoleaf",
   "short_name": "Nanoleaf",
-  "version": "0.1.3"
+  "version": "0.1.3",
+    "options": {
+      "schema": {
+         "type": "object",
+         "properties": {
+            "manualDevices": {
+               "description": "Manual Devices",
+               "type": "array",
+               "items": {
+                  "type": "object",
+                  "properties": {
+                     "ipAddress": {
+                        "type": "string"
+                     },
+                     "port": {
+                        "type": "integer"
+                     }
+                  }
+               }
+            }
+         }
+      }
+  }
 }
